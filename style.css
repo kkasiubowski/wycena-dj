@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+body, button, input, select, label {
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center; /* Centering text for all elements */
+}
+
+
+
+form {
+    max-width: 100%; /* Allows the form to be flexible */
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+label#title2, label#title4 {
+    font-size: 1em;
+    color: white;
+    font-weight: 400;
+}
+
+/* Stylizacja dla suwaka */
+#liczba_gosci {
+   font-size: 2em; /* Custom font size */
+    background-color: white;
+    color: #242424;
+    font-weight: 700;
+    margin-bottom: 0.8em;
+        margin-top: 0.5m;
+    border-radius: 10px;
+}
+
+
+/* Dodatkowe style dla kontenera, jeśli potrzebne */
+.pik-step {
+    width: 90%;    /* Szerokość kontenera */
+    margin: auto;  /* Wyśrodkowanie */
+}
+
+    
+#rezerwacja {
+    
+    width: 100%; /* Full width */
+    padding: 0.5em;
+    background-color: #98fc03;
+    color: #0f0f0f;
+    font-size: 1.5em;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.btn-next, input[type="submit"] {
+    width: 100%; /* Full width */
+    padding: 0.5em;
+    background-color: #98fc03;
+    color: #0f0f0f;
+    font-size: 1.5em;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.btn-back {
+background-color: #919191;
+margin-top: 10px;
+ width: 100%; /* Full width */
+ padding: 0.5em;
+    color: #0f0f0f;
+    font-size: 1em;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+label {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: white;
+}
+
+input[id="imie"], select[id="typ"] {
+    
+    background-color: white;
+    color: #242424;
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+    width: 40%;
+}
+
+div#city-suggestions {
+    font-size: 1em;
+    line-height: 1.9em;
+    background-color: #242424; /* Transparent background */
+    color: white;
+    padding: 0.3em 0;
+    max-width: 70%
+    max-height: 200px;
+    z-index:99;
+    border-radius: 10px;
+}
+
+input[id="total_hours"] {
+    display: none;
+    border-radius: 10px;
+}
+
+input[id="city-input"] {
+    font-size: 2em;
+    background: white;
+    color: #242424;
+        margin-top: 1em;
+          
+    border-radius: 10px;
+}
+
+input[id="termin"] {
+    font-size: 2em; /* Custom font size */
+    margin-bottom: 1em;
+    margin-top: 1em;
+    border-radius: 10px;
+}
+
+input[id="start_hour"], input[id="finish_hour"] {
+    font-size: 2em; /* Custom font size */
+    background-color: white;
+    color: #242424;
+    font-weight: 700;
+    margin-bottom: 0.8em;
+        margin-top: 0.5m;
+    border-radius: 10px;
+}
+
+
+input[id="email"] {
+    font-size: 1.6em; /* Custom font size */
+    background-color: white;
+    color: #242424;
+    font-weight: 400;
+        margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+input[name="phone"] {
+    font-size: 1.6em; /* Custom font size */
+    background-color: white;
+    color: #242424;
+    font-weight: 400;
+        margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+input[name="wiadomosc"] {
+    font-size: 1.3em; /* Custom font size */
+    background-color: white;
+    color: #242424;
+    font-weight: 400;
+        margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+width:100%;
+}
+
+div#wycenionaImpreza {
+    font-size: 1.2em;
+    color: white;
+    font-weight: 400;
+        margin-top: 1em;
+            margin-bottom: 2em;
+}
+
+div#cenaWycenionejImprezy {
+    font-size: 3em;
+    color: white;
+    font-weight: 700;
+}
+
+/* Custom styles for specific labels */
+label#title1, label#title3 {
+    font-size: 2.8em;
+    color: white;
+    font-weight: 700;
+}
+
+label#title2, label#title4 {
+    font-size: 1.5em;
+    color: white;
+    font-weight: 400;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    form {
+    
+        height: auto; /* Height becomes flexible */
+    }
+    label {
+    font-size: 1.8em;
+    }
+    
+    
+    
+    label#title1, label#title3 {
+    font-size: 1.8em;
+    color: white;
+    font-weight: 700;
+}
+label#title2, label#title4 {
+    font-size: 1.1em;
+    color: white;
+    font-weight: 400;
+}
+
+
+div#wycenionaImpreza {
+    font-size: 1.1em;
+}
+
+div#cenaWycenionejImprezy {
+    font-size: 1.8em;
+}
+
+#currentValue {
+padding: 0.3em 2em;
+
+}
+
+@media only screen and (max-width: 768px) {
+    input[id="imie"], 
+    select[id="typ"],
+    input[id="city-input"],
+    input[id="email"], 
+    input[id="phone"], 
+    input[id="wiadomosc"] {
+        width: 90%; /* Custom width for mobile devices */
+    }
+
+    div#city-suggestions {
+        font-size: 1em;
+        line-height: 2em;
+    }
+}
+
+
+
+
+}

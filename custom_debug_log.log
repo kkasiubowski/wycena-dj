@@ -1,0 +1,61 @@
+2024-03-06 04:46:50: Rozpoczęcie skryptu.
+2024-03-06 04:49:11: Rozpoczęcie skryptu.
+2024-03-06 03:49:12: Metoda POST została wykryta.
+2024-03-06 03:49:12: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 03:49:12: Dane zostały zapisane.
+2024-03-06 04:49:13: Rozpoczęcie skryptu.
+2024-03-06 04:49:13: Rozpoczęcie skryptu.
+2024-03-06 03:49:13: Metoda POST została wykryta.
+2024-03-06 03:49:13: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 03:49:13: Dane zostały zapisane.
+2024-03-06 03:49:13: Metoda POST została wykryta.
+2024-03-06 03:49:13: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 03:49:13: Dane zostały zapisane.
+2024-03-06 04:50:25: Rozpoczęcie skryptu.
+2024-03-06 03:50:25: Metoda POST została wykryta.
+2024-03-06 03:50:25: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-27","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 03:50:25: Dane zostały zapisane.
+2024-03-06 04:50:26: Rozpoczęcie skryptu.
+2024-03-06 03:50:27: Metoda POST została wykryta.
+2024-03-06 03:50:27: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-27","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 03:50:27: Dane zostały zapisane.
+2024-03-06 04:51:48: Rozpoczęcie skryptu.
+2024-03-06 03:51:49: Metoda POST została wykryta.
+2024-03-06 03:51:49: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-27","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 03:51:49: Dane zostały zapisane.
+2024-03-06 05:04:17: Rozpoczęcie skryptu.
+2024-03-06 04:04:17: Metoda POST została wykryta.
+2024-03-06 04:04:17: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 04:04:17: Dane zostały zapisane.
+2024-03-06 05:23:18: Rozpoczęcie skryptu.
+2024-03-06 04:23:19: Metoda POST została wykryta.
+2024-03-06 04:23:19: Otrzymane dane: {"name":"Kacper","eventType":"osiemnastka","eventDate":"2024-06-28","location":"Lubin [31 km]","startTime":"19:00","endTime":"03:00","totalHours":"8","guestNumber":"60","email":"kkasiubowski@gmail.com","discountPrice":2000,"price":2200}
+2024-03-06 04:23:19: Dane zostały zapisane.
+2024-03-06 05:53:38: Rozpoczęcie skryptu.
+2024-03-06 04:53:38: Metoda POST została wykryta.
+2024-03-06 04:53:38: Otrzymane dane: {"name":"Kacper","eventType":"osiemnastka","eventDate":"2024-03-22","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1800,"price":2000}
+2024-03-06 04:53:38: Dane zostały zapisane.
+2024-03-06 05:58:41: Rozpoczęcie skryptu.
+2024-03-06 04:58:41: Metoda POST została wykryta.
+2024-03-06 04:58:41: Otrzymane dane: {"name":"Ania","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Trzebnice [30 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":1700,"price":1900}
+2024-03-06 04:58:41: Dane zostały zapisane.
+2024-03-06 06:04:53: Rozpoczęcie skryptu.
+2024-03-06 05:04:53: Metoda POST została wykryta.
+2024-03-06 05:04:53: Otrzymane dane: {"name":"Adam","eventType":"osiemnastka","eventDate":"2024-03-25","location":"Warszawa [366 km]","startTime":"19:00","endTime":"04:00","totalHours":"9","guestNumber":"60","email":"kkasiubowski@gmail.com","discountPrice":6000,"price":6200}
+2024-03-06 05:04:53: Dane zostały zapisane.
+2024-03-06 06:08:07: Rozpoczęcie skryptu.
+2024-03-06 05:08:08: Metoda POST została wykryta.
+2024-03-06 05:08:08: Otrzymane dane: {"name":"KKKK","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Wrocław [80 km]","startTime":"19:00","endTime":"04:00","totalHours":"9","guestNumber":"69","email":"kkasiubowski@gmail.com","discountPrice":2500,"price":2700}
+2024-03-06 05:08:08: Dane zostały zapisane.
+2024-03-06 06:10:20: Rozpoczęcie skryptu.
+2024-03-06 05:10:21: Metoda POST została wykryta.
+2024-03-06 05:10:21: Otrzymane dane: {"name":"abc","eventType":"wesele","eventDate":"2024-03-22","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"25","email":"kkasiubowski@gmail.com","discountPrice":2500,"price":2700}
+2024-03-06 05:10:21: Dane zostały zapisane.
+2024-03-06 06:16:46: Rozpoczęcie skryptu.
+2024-03-06 05:16:46: Metoda POST została wykryta.
+2024-03-06 05:16:46: Otrzymane dane: {"name":"FFFF","eventType":"osiemnastka","eventDate":"2024-03-29","location":"Toruń [272 km]","startTime":"19:00","endTime":"02:00","totalHours":"7","guestNumber":"45","email":"kkasiubowski@gmail.com","discountPrice":5800,"price":6000}
+2024-03-06 05:16:46: Dane zostały zapisane.
+2024-03-06 17:26:13: Rozpoczęcie skryptu.
+2024-03-06 16:26:16: Metoda POST została wykryta.
+2024-03-06 16:26:16: Otrzymane dane: {"name":"AAAA","eventType":"osiemnastka","eventDate":"2024-03-28","location":"Wrocław [80 km]","startTime":"18:00","endTime":"02:00","totalHours":"8","guestNumber":"40","email":"kkasiubowski@gmail.com","discountPrice":1950,"price":2150}
+2024-03-06 16:26:16: Dane zostały zapisane.
